@@ -1,0 +1,30 @@
+.App-logo{
+    position: center;
+    margin-left: 25%;
+    height: 300px;
+    padding-bottom: 0%;
+}
+
+p{
+    text-align: center;
+}
+
+.Button{
+    margin-right: 20%;
+}
+
+.container{
+    size: 50%;
+    position: relative;
+    max-width: 2000px;
+
+    
+}
+
+h2{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
